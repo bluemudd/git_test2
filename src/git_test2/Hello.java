@@ -3,7 +3,7 @@ package git_test2;
 public class Hello {
 
     public void say() {
-        System.out.println("¾È³çÇÏ¼¼¿ä");
+        System.out.println("ì•ˆë…•í•˜ì„¸ìš”");
     }
 
 }
